@@ -1,0 +1,30 @@
+h3 {
+    padding: 1rem 2rem;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+.container div {
+    width: 100%;
+    max-width: 500px;
+    padding-right: 1rem;
+}
+
+.link-button {
+    background: none;
+    border: none;
+    padding: 0;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+    text-align: left;
+}
+
+.movie-details table {
+    margin-top: 1rem;
+}

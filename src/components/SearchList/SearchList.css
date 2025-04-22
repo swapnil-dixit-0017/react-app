@@ -1,0 +1,22 @@
+.search-list-container {
+
+}
+.search-list-container .search-input {
+    height: 32px;
+    width: 200px;
+}
+.search-list-container ul.list-disc {
+    list-style-type: none;
+    padding: 0;
+}
+
+.search-list-container .list-item {
+    padding: 4px 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.search-list-container .list-item:hover {
+    background-color: #eee;
+}
